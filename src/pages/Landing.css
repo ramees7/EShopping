@@ -1,0 +1,8 @@
+h1 {
+    /* font-size: 72px; */
+    background: -webkit-linear-gradient( #2e789b, #4795c0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Shrikhand', serif;
+    text-shadow: 2px 2px #256c93
+}
