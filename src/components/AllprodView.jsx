@@ -20,7 +20,7 @@ function AllprodView({ changeRefresh, refreshAllProd }) {
         if (ress.status >= 200 || ress.status > 300) {
             toast.success("Product Deleted")
             changeRefresh()
-
+            getAllProd()
         }
     }
 
